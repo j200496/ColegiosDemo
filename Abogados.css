@@ -15,6 +15,10 @@
     height: 0;
     overflow: hidden;
 }
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+  }
 .crd{
     background-color: blue;
 }
